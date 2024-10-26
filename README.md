@@ -21,7 +21,7 @@
     </div>
     <div>
         <h1>Perfil profesional</h1>
-        <p>Dale clik al siguiente link</p>
+        <p>Dale clic al siguiente link</p>
     </div>
     </section>
     <a href="https://www.linkedin.com/in/garydatapro/">Garydatapro/linkedin</a>
